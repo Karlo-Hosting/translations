@@ -48,6 +48,15 @@
       "activservers": "Serveurs actifs",
       "registerdusers": "Utilisateurs enregistrés",
       "uptime": "Disponibilité"
+      "imprintheading": "Mentions légales"
+      "imprintdataheading": "Fournisseur de services"
+      "imprintcontactheading": "Possibilités de contact"
+      "imprintcontact": "Téléphone"
+      "imprintjournalheading": "Offres journalistiques et rédactionnelles"
+      "imprintjournal": "Responsable du contenu"
+      "imprintOSheading": "Règlement des litiges en ligne (OS)"
+      "imprintOS":""
+      "imprintPrivacyHeading": "Informations sur la responsabilité et les droits de protection"
     },
     "en": {
       "heading1": "Welcome to your free hosting",
